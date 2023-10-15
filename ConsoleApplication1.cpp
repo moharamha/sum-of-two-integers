@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using el = "\n";
 using namespace std;
-int add(a, b)
+int add(int a,int b)
 {
 	return a + b;
 }
